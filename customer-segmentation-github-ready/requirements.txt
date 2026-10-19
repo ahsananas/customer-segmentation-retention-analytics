@@ -1,0 +1,8 @@
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+openpyxl>=3.1
+pytest>=8.0
+# optional – PDF export of the dashboard
+playwright>=1.44
+pypdf>=4.0

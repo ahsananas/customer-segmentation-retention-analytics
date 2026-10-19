@@ -1,0 +1,10 @@
+,test,scenario,same_segment_pct,adjusted_rand_index
+0,REI weights,Recency-led (40/15/15/15/15),89.7,0.757
+1,REI weights,Adoption-led (25/15/15/30/15),86.8,0.707
+2,REI weights,Equal weights (20 each),88.6,0.737
+3,REI weights,No loyalty (35/25/15/25/0),88.0,0.723
+4,REI weights,Digital-led (25/15/30/15/15),84.4,0.654
+5,Thresholds,Value bands -20%,92.9,0.836
+6,Thresholds,Value bands +20%,93.9,0.853
+7,Thresholds,Engagement bands -5 pts,80.1,0.569
+8,Thresholds,Engagement bands +5 pts,79.1,0.567
