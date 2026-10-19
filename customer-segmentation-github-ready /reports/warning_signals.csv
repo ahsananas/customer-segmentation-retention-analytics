@@ -1,8 +1,0 @@
-,signal,customers_flagged,share_of_book_pct,attrition_if_present_pct,attrition_if_absent_pct,lift_vs_book
-0,App registered but unused 30+ days,296,7.4,30.1,8.3,3.04
-1,No transaction for 45+ days,671,16.8,24.9,6.8,2.52
-2,2+ complaints in 12 months,131,3.3,21.4,9.5,2.16
-3,Deposits down 15%+ over 6 months,406,10.2,20.7,8.7,2.1
-4,Current account only,414,10.4,15.2,9.3,1.54
-5,Not main bank,2121,53.0,14.9,4.2,1.51
-6,Card utilisation 85%+,5,0.1,0.0,9.9,0.0
